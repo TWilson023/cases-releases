@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>cases</title>
+        <item>
+            <title>0.1.0</title>
+            <pubDate>Thu, 25 Jun 2026 20:33:48 -0400</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TWilson023/cases-releases/releases/download/v0.1.0/Cases-0.1.0.zip" length="1214016" type="application/octet-stream" sparkle:edSignature="em3SkyhLtqxmsfKdcFwGUTL/d/xf377l8fzfD8qcmKcRi3cY2M98Y+M24xcXkCSLB42F2y4myxdj1rETvUmaCQ=="/>
+        </item>
+    </channel>
+</rss>
