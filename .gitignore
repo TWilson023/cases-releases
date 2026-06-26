@@ -1,0 +1,4 @@
+*.zip
+*.delta
+old_updates/
+.DS_Store
