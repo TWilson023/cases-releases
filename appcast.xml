@@ -3,6 +3,14 @@
     <channel>
         <title>cases</title>
         <item>
+            <title>0.1.6</title>
+            <pubDate>Mon, 20 Jul 2026 11:00:47 -0400</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>0.1.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/TWilson023/cases-releases/releases/download/v0.1.6/Cases-0.1.6.dmg" length="2850081" type="application/octet-stream" sparkle:edSignature="Pqipvz/Ne/UPQ+USSTHRSmQpQgBiYE6qb1NQHGLhDHAt6B/f/yu7nPYkfYfU+X2n6ifq/tGU8AiZbIXSPknKAQ=="/>
+        </item>
+        <item>
             <title>0.1.5</title>
             <pubDate>Mon, 20 Jul 2026 10:39:39 -0400</pubDate>
             <sparkle:version>7</sparkle:version>
@@ -17,14 +25,6 @@
             <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/TWilson023/cases-releases/releases/download/v0.1.4/Cases-0.1.4.zip" length="2844972" type="application/octet-stream" sparkle:edSignature="pJtuQSbYFavqARzGzQw5aaQjLVpWC+NnXNJ5noyjgmErbSQp6U83BCOxH7D7Hl6Xw8s2OTzA+kgHqSFDegEhBw=="/>
-        </item>
-        <item>
-            <title>0.1.3</title>
-            <pubDate>Wed, 15 Jul 2026 15:42:46 -0400</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/TWilson023/cases-releases/releases/download/v0.1.3/Cases-0.1.3.zip" length="2844949" type="application/octet-stream" sparkle:edSignature="KeIGg4FePt+3tWCPhgRZIC4yQIH7+smMbx3FYznY7l/BNIwgkuzoKk9vbCV4DLrt1JrU7jmNilxLMHvgwKhjAA=="/>
         </item>
         <item>
             <title>0.1.1</title>
